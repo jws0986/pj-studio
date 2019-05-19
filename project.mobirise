@@ -763,7 +763,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc00001-1920x1080.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -780,8 +780,8 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/49836958-291853345020022-1941942396002500608-o-1440x811.jpg",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/negative0-05-051-2000x1333.jpg",
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
